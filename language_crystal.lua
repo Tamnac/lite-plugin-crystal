@@ -48,7 +48,6 @@ syntax.add {
     ["false"]        = "literal",
     ["Float32"]      = "keyword2",
     ["Float64"]      = "keyword2",
-    ["for"]          = "keyword",
     ["fun"]          = "keyword",
     ["if"]           = "keyword",
     ["in"]           = "keyword",
