@@ -74,6 +74,7 @@ syntax.add {
     ["struct"]       = "keyword2",
     ["super"]        = "keyword",
     ["then"]         = "keyword",
+    ["times"]        = "function", 
     ["true"]         = "literal",
     ["Tuple"]        = "keyword2",
     ["UInt8"]        = "keyword2",
