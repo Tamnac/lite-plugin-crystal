@@ -9,3 +9,8 @@ Add the language_crystal.lua file to your plugins directory and reload/restart t
 ## Contributing
 
 Please do contribute. I'm not very familiar with lua or crystal (yet).
+
+Currently needed improvements:
+- recognize interpolated values
+- recognize function calls that are not preceded by '.' or have paranthesis
+- check if the keywords are all correct
