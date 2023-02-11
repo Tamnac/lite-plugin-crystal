@@ -62,7 +62,7 @@ syntax.add {
     ["rescue"]       = "keyword",
     ["responds_to?"] = "function",
     ["Void"]         = "literal",
-    ["return"]       = "keyword2",
+    ["return"]       = "keyword",
     ["self"]         = "keyword2",
     ["super"]        = "keyword2",
     ["then"]         = "keyword",
